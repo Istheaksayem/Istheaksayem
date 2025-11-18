@@ -4,9 +4,9 @@
 ### MERN Stack Developer  
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently exploring **Next.js**
-- 🚀 Building a **Tourism Booking Website**
-- 💡 I enjoy creating modern UI and full-stack web applications
+- 🌱 I’m currently exploring **Node.js**
+- 🚀 Building a **Frelance marketPlace Website**
+- 💡 I enjoy creating MERN-stack web applications
 - 🔥 Passionate about clean code, optimization & responsive design
 
 ---
