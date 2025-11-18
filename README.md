@@ -1,4 +1,4 @@
-![Banner](https://your-banner-image-link)
+[![Banner](https://your-banner-image-link)](https://i.ibb.co.com/q3Kx1YvQ/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
 # Hi, I'm Ishtiyak Ahmed Sayem 👨‍💻  
 ### MERN Stack Developer  
