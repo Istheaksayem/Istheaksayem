@@ -1,6 +1,6 @@
 ![Banner](https://i.ibb.co.com/q3Kx1YvQ/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
-# Hi, I'm Ishtiyak Ahmed Sayem 👨‍💻  
+# Hi, I'm Istheak Ahmed Sayem 👨‍💻  
 ### MERN Stack Developer  
 
 ## 👨‍💻 About Me
