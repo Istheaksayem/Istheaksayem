@@ -55,7 +55,7 @@ Tech: React, TailwindCSS, Firebase Auth, React Router
 ---
 
 ## 📝 Project Overview
-This is the frontend of a full-stack freelance marketplace platform where users can explore services, hire freelancers, post their own services, manage dashboards, and update profiles.  
+This is the frontend of a MERN-stack freelance marketplace platform where users can explore services, hire freelancers, post their own services, manage dashboards, and update profiles.  
 The UI is fully responsive and built with Tailwind CSS to ensure great experience on mobile, tablet, and desktop.
 
 ---
