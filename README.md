@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/q3Kx1YvQ/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
+![Banner](https://i.ibb.co.com/hRdK76Vq/Whats-App-Image-2025-11-19-at-08-33-58-f7eac412.jpg)
 
 # Hi, I'm Istheak Ahmed Sayem 👨‍💻  
 ### MERN Stack Developer  
