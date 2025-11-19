@@ -1,6 +1,9 @@
 ![Banner](https://i.ibb.co.com/hRdK76Vq/Whats-App-Image-2025-11-19-at-08-33-58-f7eac412.jpg)
 
-# Hi, I'm Istheak Ahmed Sayem 👨‍💻  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=1F51FF&center=true&vCenter=true&width=700&height=70&lines=Hi,+I'm+Istheak+Ahmed+Sayem+👨‍💻;MERN+Stack+Developer;Welcome+to+My+GitHub+Profile!">
+</p>
+
 ### MERN Stack Developer  
 
 ## 👨‍💻 About Me
