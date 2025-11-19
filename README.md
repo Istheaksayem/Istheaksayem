@@ -88,6 +88,15 @@ The UI is fully responsive and built with Tailwind CSS to ensure great experienc
 
 ---
 
+
+---
+
+
+
+## 1️⃣ Clone Repository
+git clone : https://github.com/Istheaksayem/freelance-marketplace-project
+
+
 ## 📦 Dependencies
 
 react
