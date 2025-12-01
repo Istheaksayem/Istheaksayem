@@ -23,7 +23,7 @@
 ---
 
 ## 📬 Connect with Me
-[![Facebook](https://skillicons.dev/icons?i=facebook)](https://facebook.com/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/username)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Istheaksayem)
