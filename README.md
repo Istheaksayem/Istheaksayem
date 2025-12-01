@@ -2,9 +2,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=1F51FF&center=true&vCenter=true&width=700&height=70&lines=Hi,+I'm+Istheak+Ahmed+Sayem+👨‍💻;MERN+Stack+Developer;Welcome+to+My+GitHub+Profile!">
-</p>
-
-### MERN Stack Developer  
+</p> 
 
 ## 👨‍💻 About Me
 - 🌱 I’m currently exploring **Node.js**
