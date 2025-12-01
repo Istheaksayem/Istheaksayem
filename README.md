@@ -23,8 +23,8 @@
 ---
 
 ## 📬 Connect with Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/)
 [![Facebook](https://skillicons.dev/icons?i=facebook)](https://facebook.com/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Istheaksayem)
 
