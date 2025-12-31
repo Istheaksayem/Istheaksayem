@@ -10,9 +10,9 @@
 **Istheak Ahmed Sayem**  
 **MERN Stack Web Developer**
 
-📍 **Location:** Bangladesh  
-📧 **Email:** sayem.dev@gmail.com  
-📞 **Contact:** +8801XXXXXXXXX  
+📍 **Location:** Mirsarai,Chottogram Bangladesh 
+📧 **Email:** istheakahmed9345@gmail.com
+📞 **Contact:** +8801810589345  
 
 ---
 
@@ -26,7 +26,7 @@ and user-friendly design.
 
 ## 🔭 Current Activities
 - 🌱 Exploring **Next.js**
-- 🚀 Working on a **Freelance Marketplace Website**
+- 🚀 Working on a **Local chef bazar Website**
 - 💡 Practicing backend optimization with **Node.js & MongoDB**
 
 ---
@@ -73,5 +73,4 @@ and user-friendly design.
 
 ---
 
-## 📌 Featured Projects
-✔️ Minimum **3 client-side repositories pinned**
+
