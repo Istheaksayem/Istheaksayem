@@ -55,12 +55,12 @@ and user-friendly design.
   <a href="https://github.com/Istheaksayem">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/istheak-ahmed/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://x.com/">
+  <!-- <a href="https://x.com/">
     <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
+  </a> -->
 </p>
 
 ---
