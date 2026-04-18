@@ -176,15 +176,6 @@ LocalChefBazaar is a modern full-stack MERN platform that connects home cooks wi
 
 ---
 
-### ⚡ Extra Features
-- Loading Spinner
-- Custom Error Page
-- Fully Responsive Design 📱
-- Clean UI/UX (Recruiter Friendly)
-- Dynamic Page Title
-- React Hook Form (All forms)
-
----
 
 ## 🛠️ Technologies Used
 
@@ -210,8 +201,7 @@ LocalChefBazaar is a modern full-stack MERN platform that connects home cooks wi
 
 ## 📦 NPM Packages
 
-- react-router-dom
-- axios
+- react-router
 - firebase
 - react-hook-form
 - sweetalert2
@@ -220,6 +210,88 @@ LocalChefBazaar is a modern full-stack MERN platform that connects home cooks wi
 - dotenv
 - stripe
 
+  3. Freelance MarketPlace— Find & Post Jobs Easily
+
+     <p align="center">
+  <img src="https://i.ibb.co.com/ZpP9Lgpr/Screenshot-2026-04-16-121552.png" alt="Project Banner" width="100%">
+</p>
+
+Project Overview
+
+Freelance Marketplace is a full-stack MERN web application where users can post jobs, explore available tasks, and accept jobs posted by others.
+
+This platform simulates a real-world freelancing system where:
+
+Clients can post jobs
+Freelancers can accept tasks
+Users can manage their own jobs and activities
+✨ Key Features
+🔐 Firebase Authentication (Email & Google Login)
+➕ Add, Update & Delete Jobs (CRUD Operation)
+🌐 View All Jobs from MongoDB Database
+📄 Job Details Page with Accept Functionality
+✅ Accept Tasks (Cannot accept own jobs)
+📊 My Added Jobs & My Accepted Tasks Dashboard
+🔄 Real-time UI update after Delete / Accept
+📱 Fully Responsive (Mobile, Tablet, Desktop)
+🌙 Dark / Light Mode Toggle
+🔍 Sorting by Posted Date (Newest First)
+🧑‍💻 User Functionalities
+👤 Authentication
+Email & Password login
+Google login
+Secure route protection
+📋 Job Management
+Add Job
+Title, Category, Summary, Image
+Auto-filled user info
+Saved to MongoDB
+Update Job
+Edit existing job data
+Pre-filled form
+Delete Job
+Remove job instantly from UI & DB
+🔎 Browse Jobs
+View all jobs in grid/table layout
+See job details
+Clean UI inspired by freelance platforms
+📌 Accept Tasks
+Accept jobs posted by other users
+Saved in "My Accepted Tasks"
+DONE / CANCEL functionality
+📊 Dashboard Pages
+My Added Jobs
+My Accepted Tasks
+🛠️ Technologies Used
+Frontend:
+React.js
+React Router
+Tailwind CSS
+Firebase Authentication
+TanStack Query / Axios
+React Toastify
+Backend:
+Node.js
+Express.js
+MongoDB
+📦 NPM Packages
+react-router-dom
+axios / @tanstack/react-query
+firebase
+react-toastify
+cors
+dotenv
+
+
+📁 GitHub Repository
+Client Repo:
+
+🔗 https:[//github.com/your-username/client](https://github.com/Istheaksayem/local-chef-bazar-client)
+🔗
+
+Server Repo:
+
+🔗 https://github.com/Istheaksayem/local-chef-bazar-server
 ## 🛠 Skills
 
 ### 🎨 Frontend
