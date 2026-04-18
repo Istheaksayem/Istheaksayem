@@ -216,6 +216,10 @@ LocalChefBazaar is a modern full-stack MERN platform that connects home cooks wi
   <img src="https://i.ibb.co.com/ZpP9Lgpr/Screenshot-2026-04-16-121552.png" alt="Project Banner" width="100%">
 </p>
 
+Live Site
+
+🔗 https://dapper-buttercream-10e70b.netlify.app/
+
 Project Overview
 
 Freelance Marketplace is a full-stack MERN web application where users can post jobs, explore available tasks, and accept jobs posted by others.
